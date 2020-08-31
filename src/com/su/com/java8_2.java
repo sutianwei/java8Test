@@ -16,7 +16,7 @@ public class java8_2 {
 
     //java 8
     File[] hiddenFIle = new File(".").listFiles(File::isHidden);
-  //dsadsad  的的 的s 虑sad sad adsdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasd
+  //dsadsad  的的 的s 虑sad sad adsdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasd撒旦撒旦萨大赛的 基地哦呵四级的哦
 
 
 }
