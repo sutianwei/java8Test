@@ -14,8 +14,9 @@ public class java8_2 {
         }
     });
 
-    //java 8 sd  fsi hghgghskjk
+    //java 8
     File[] hiddenFIle = new File(".").listFiles(File::isHidden);
+  //dsadsad  的的 的s 虑sad sad adsdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasd
 
 
 }
