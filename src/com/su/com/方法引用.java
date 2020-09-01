@@ -16,4 +16,5 @@ public class 方法引用 {
     //简易写法  重读了
     File[] hiddenFile = new File(".").listFiles(File::isHidden);
     //next
+
 }
