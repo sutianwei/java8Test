@@ -29,7 +29,7 @@ public class Student {
     }
 
 
-
+//a
     public void init() {
         Random random = new Random();
         List<Student> stuList = new ArrayList<Student>() {
