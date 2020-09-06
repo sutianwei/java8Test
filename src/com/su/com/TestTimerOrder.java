@@ -1,6 +1,6 @@
 package com.su.com;
 
-import org.junit.Test;
+
 
 public class TestTimerOrder {
     public  static void main(String[] args) {
