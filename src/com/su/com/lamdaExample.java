@@ -27,6 +27,7 @@ public class lamdaExample {
         //java 8 之后
         fertures.forEach(n -> System.out.println(n+"1"));
 
+        //java  8之后
         fertures.forEach(System.out::println);
 
         //java 8之前
