@@ -1,7 +1,7 @@
 package company.IO;
 
 import company.offer.Server;
-import org.junit.Test;
+//import org.junit.Test;
 
 
 import java.net.InetSocketAddress;
@@ -46,7 +46,7 @@ public class TestBlockingNIO {
 
     }
 
-    @Test
+//    @Test
     public void server() throws Exception {
         ServerSocketChannel ssChannel = ServerSocketChannel.open();
         FileChannel outChannel = FileChannel.open(Paths.get("2.jpg"), StandardOpenOption.WRITE, StandardOpenOption.CREATE);
