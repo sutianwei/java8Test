@@ -51,6 +51,12 @@ public class StringMethod {
         //添加字符
         System.out.println(str2.concat("susu"));
 
+
+
+
+        String[] hellos="hello hello".split(" ");
+        System.out.println(hellos[0].hashCode()+"hashcode-----------------------------");
+        System.out.println(hellos[1].hashCode());
     }
 
     public static void printString(String a[]) {
