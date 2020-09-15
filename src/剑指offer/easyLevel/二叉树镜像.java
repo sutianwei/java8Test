@@ -1,6 +1,7 @@
 package 剑指offer.easyLevel;
 
 
+//
 public class 二叉树镜像 {
     public void Mirror(TreeNode root) {
         if (root == null || root.left == null && root.right == null) {
