@@ -1,10 +1,9 @@
 package com.su.com;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 import java.util.stream.Collectors;
+
+import static java.util.stream.Collectors.summarizingInt;
 
 public class Transaction {
 
@@ -109,6 +108,12 @@ public class Transaction {
                 transactions.stream()
                         .reduce((t1, t2) -> t1.getValue() < t2.getValue() ? t1 : t2);
         System.out.println(smallest);//Optional[Transaction{trader=Trader{name='Brian', city='Cambridge'}, year=2011, value=300}]
+
+
+        List<Transaction> transactions1 = transactions.stream().collect(Collectors.toList());
+        System.out.println("22222222222222222" + transactions1);
+
+
     }
 
 
