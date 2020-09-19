@@ -3,10 +3,7 @@ package company.javathead;
 import java.util.*;
 import java.util.List;
 
-/**
- * @Author: sutianwei
- * @Date: 2019/5/26 16:04
- */
+
 public class link {
     public static void main(String[] args) {
         List<String> a = new LinkedList<>();
