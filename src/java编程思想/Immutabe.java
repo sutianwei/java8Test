@@ -5,11 +5,11 @@ public class Immutabe {
         return  s.toUpperCase();
     }
     public static void main(String args[]){
-//        String q="howdy";
-//        System.out.println(q);
-//        String qq=updase(q);
-//        System.out.println(qq);
-//        System.out.println(q);
+        String q="howdy";
+        System.out.println(q);
+        String qq=updase(q);
+        System.out.println(qq);
+        System.out.println(q);
 
         String mongo ="mongo";
         String s="abc"+mongo+"666";
