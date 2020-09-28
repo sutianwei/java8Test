@@ -55,7 +55,6 @@ public class 快慢指针 {
             fast=fast.next;
         }
         //确保fast走完K步
-        if (i>0) return null;
         while (fast !=null){
             fast=fast.next;
             slow=slow.next;
@@ -142,5 +141,18 @@ public class 快慢指针 {
             fast = fast.next;
         }
         return  fast;
+    }
+
+
+    /**
+     * 删除节点K，就是把K后面的那个节点的值赋给K，把后面节点的next给K，把后面的这个节点赋为null
+     *
+     * @param node
+     */
+    public void delete(Node node){
+        Node fast = node.next;
+        node.data=fast.data;
+        node.next=fast.next;
+        fast=null;
     }
 }
