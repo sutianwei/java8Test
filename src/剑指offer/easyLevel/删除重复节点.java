@@ -21,6 +21,9 @@ public class 删除重复节点 {
         return  head;
     }
 
+    public static void main(String[] args) {
+        System.out.println(1<<4);
+    }
 
 
 }
