@@ -12,17 +12,19 @@ public class mapetst {
         map.put("zhang3", 7);
         map.put("zhang4", 33);
         map.put("zhang5", 6);
+
+
+        map.forEach((key,value)-> System.out.println(key+":::::::::::::"+value));
 //        show(map);
 //        show1(map);
 //        show2(map);
 //        show3(map);
 //        System.out.println(map);
 
-
-
-
-
     }
+
+    /*map.foreach*/
+
 
 
     /**Iterator遍历*/
