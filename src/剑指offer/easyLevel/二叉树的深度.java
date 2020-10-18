@@ -1,10 +1,18 @@
 package 剑指offer.easyLevel;
+
 class TreeNode {
     int val = 0;
     TreeNode left = null;
     TreeNode right = null;
+
     public TreeNode(int val) {
         this.val = val;
+    }
+
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
     }
 
 }
@@ -27,7 +35,7 @@ public class 二叉树的深度 {
         if (root == null)
             return 0;
         // 树的深度为其左右子树深度+1
-        return max(depth(root.left), depth(root.right))+1;
+        return max(depth(root.left), depth(root.right)) + 1;
     }
 
     private int max(int a, int b) {
