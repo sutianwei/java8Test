@@ -13,8 +13,6 @@ import java.util.Set;
  */
 public class 重复数字 {
 
-
-
     public int findRepeatNumber1(int[] nums) {
 
         int arr[] = new int[nums.length];
