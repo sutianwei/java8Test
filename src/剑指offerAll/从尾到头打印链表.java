@@ -2,6 +2,7 @@ package 剑指offerAll;
 
 import company.company.ListNode;
 
+import java.util.LinkedList;
 import java.util.Stack;
 
 
@@ -19,6 +20,7 @@ public class 从尾到头打印链表 {
          * 用栈存储数据，在导出到数组
          */
         Stack<ListNode1> stack = new Stack<>();
+
         ListNode1 fast = head;
         while (fast != null) {
             stack.push(fast);
