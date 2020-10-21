@@ -13,8 +13,6 @@ class ListNode1 {
         val = x;
     }
 }
-
-
 public class 从尾到头打印链表 {
     public int[] reversePrint(ListNode1 head) {
         /**
