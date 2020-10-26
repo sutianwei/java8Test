@@ -16,6 +16,7 @@ public class 二进制中1的个数 {
 
     public static void main(String[] args) {
         System.out.println(Integer.toBinaryString(9));
+        System.out.println( Integer.bitCount(9));
         System.out.println(hammingWeight(9));
     }
 }
