@@ -1,6 +1,5 @@
 package 剑指offerAll;
 
-import java.util.ArrayList;
 import java.util.*;
 
 public class 最小的k个数 {
@@ -12,8 +11,6 @@ public class 最小的k个数 {
         }
         return b;
     }
-
-
 
     public int[] getLeastNumbers2(int[] arr, int k) {
         int[] vec = new int[k];
