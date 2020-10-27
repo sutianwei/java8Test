@@ -8,7 +8,7 @@ public class 用两个栈实现队列 {
     Deque<Integer> stack1;
     Deque<Integer> stack2;
 
-    public CQueue() {
+    public void CQueue() {
         stack1 = new LinkedList<Integer>();
         stack2 = new LinkedList<Integer>();
     }
