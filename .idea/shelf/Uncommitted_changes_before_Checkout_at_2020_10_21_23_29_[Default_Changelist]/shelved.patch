@@ -1,0 +1,60 @@
+Index: src/剑指offerAll/从尾到头打印链表.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package 剑指offerAll;\r\n\r\nimport company.company.ListNode;\r\n\r\nimport java.util.Stack;\r\n\r\n\r\nclass ListNode1 {\r\n    int val;\r\n    ListNode1 next;\r\n\r\n    ListNode1(int x) {\r\n        val = x;\r\n    }\r\n}\r\n\r\n\r\npublic class 从尾到头打印链表 {\r\n    public int[] reversePrint(ListNode1 head) {\r\n        /**\r\n         * 用栈存储数据，在导出到数组\r\n         */\r\n        Stack<ListNode1> stack = new Stack<>();\r\n        ListNode1 fast = head;\r\n        while (fast != null) {\r\n            stack.push(fast);\r\n            fast = fast.next;\r\n        }\r\n        int nums[] = new int[stack.size()];\r\n        for (int i = 0; i < nums.length; i++) {\r\n            nums[i] = stack.pop().val;\r\n        }\r\n        return nums;\r\n\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/剑指offerAll/从尾到头打印链表.java	(revision 3c4695b93da7fd7123eea50c27b03a2fc9fd4d71)
++++ src/剑指offerAll/从尾到头打印链表.java	(date 1603293860212)
+@@ -2,6 +2,7 @@
+ 
+ import company.company.ListNode;
+ 
++import java.util.LinkedList;
+ import java.util.Stack;
+ 
+ 
+@@ -13,14 +14,13 @@
+         val = x;
+     }
+ }
+-
+-
+ public class 从尾到头打印链表 {
+     public int[] reversePrint(ListNode1 head) {
+         /**
+          * 用栈存储数据，在导出到数组
+          */
+         Stack<ListNode1> stack = new Stack<>();
++
+         ListNode1 fast = head;
+         while (fast != null) {
+             stack.push(fast);
+@@ -31,6 +31,25 @@
+             nums[i] = stack.pop().val;
+         }
+         return nums;
++
++    }
++    public class 从尾到头打印链表1 {
++        public int[] reversePrint(ListNode1 head) {
++            /**
++             * 用栈存储数据，在导出到数组
++             */
++            Stack<ListNode1> stack = new Stack<>();
++
++            ListNode1 fast = head;
++            while (fast != null) {
++                stack.push(fast);
++                fast = fast.next;
++            }
++            int nums[] = new int[stack.size()];
++            for (int i = 0; i < nums.length; i++) {
++                nums[i] = stack.pop().val;
++            }
++            return nums;
+ 
+-    }
++        }
+ }
