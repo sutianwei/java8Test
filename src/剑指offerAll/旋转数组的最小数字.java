@@ -10,8 +10,6 @@ public class 旋转数组的最小数字 {
 
     public int minArray(int[] numbers) {
 
-
-
             int n =1;
             for (int i = 0;i <numbers.length-1;i++){
                 if (numbers[i]<numbers[i+1]){
@@ -19,11 +17,9 @@ public class 旋转数组的最小数字 {
                     numbers[i+1]=n;
                 }else{
                     n=numbers[i+1];
-
                 }
             }
             return  n ;
-
     }
 
 }
