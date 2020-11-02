@@ -18,18 +18,17 @@ public class 翻转单词顺序 {
     }
 
 
-//    public String reverseWords2(String s) {
-//        //删除首尾空格
-//        s.trim();
-//
-//        int j = s.length() - 1;
-//        int i = j;
-//
-//        StringBuilder res = new StringBuilder();
-//        while (i>=0){
-//            while (i>0 && s.charAt(i) != ' ' ) {i--;}
-//            res.append(s.substring(i+1,j+1) + "");
-//        }
+    public String reverseWords2(String s) {
+        //删除首尾空格
+        String[] strs = s.trim().split(" ");
+        StringBuilder res = new StringBuilder();
+        for (int i = strs.length - 1; i >= 0; i--) {
+            if (strs[i].equals("")) {
+                continue;
+            }
+            res.append(strs[i] + " ");
+        }
+        return res.toString().trim();
 
-//    }
+    }
 }
