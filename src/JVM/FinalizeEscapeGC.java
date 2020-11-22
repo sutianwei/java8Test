@@ -4,7 +4,9 @@ import jdk.nashorn.internal.objects.NativeUint8Array;
 
 public class FinalizeEscapeGC {
 
-
+    /***
+     *
+     */
     public static FinalizeEscapeGC SAVE_HOME = null;
 
     public void isAlive() {
