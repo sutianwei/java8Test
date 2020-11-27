@@ -1,19 +1,21 @@
 package company.多线程;
-/*
-* 1继承threa+run方法
-* 2实现runnable
-*
-*
-*
-* */
+
+import java.security.Timestamp;
+import java.util.*;
+
 public class stat {
-    public   static   void   main(String  args[]){
-        staticproxy  st=new staticproxy();//真实角色是
-        Thread  thread=new Thread(st);//代理角色
-        thread.start();
-        for (int i=0;i<100;i++){
-            System.out.println("一边吃一边阿达");
-        }
+
+    public static void main(String[] args) {
+
+
+//        Long time = System.currentTimeMillis();  //当前时间的时间戳
+//        long zero = time / (1000 * 3600 * 24) * (1000 * 3600 * 24) - TimeZone.getDefault().getRawOffset();
+//        System.out.println(zero);
+//
+//        Calendar calendar = Calendar.getInstance();
+//        calendar.set(calendar.get(Calendar.YEAR),calendar.get(Calendar.MONTH),calendar.get(Calendar.DAY_OF_MONTH),23,59,59);
+//        long tt = calendar.getTime().getTime();
+//        System.out.println(tt);
     }
 
 
