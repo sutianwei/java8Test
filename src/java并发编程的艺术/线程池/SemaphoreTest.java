@@ -13,6 +13,7 @@ public class SemaphoreTest {
         for(int i=0;i<40;i++){
 
             Thread thread=new Thread(new Runnable() {
+                @Override
                 public void run() {
                     try {
                         System.out.println("===="+Thread.currentThread().getName()+"来到停车场");
