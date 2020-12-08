@@ -3,6 +3,7 @@ package company.company;
 public class So {
     public ListNode ReverseList(ListNode head) {
 
+
         ListNode next = null;
         ListNode pre = null;
 
@@ -31,6 +32,7 @@ public class So {
         b.next = c;
         c.next = d;
         d.next = e;
+
         new So().ReverseList(a);
         while (e != null) {
             System.out.println(e.val);

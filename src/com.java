@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class com {
 
     private String name;
@@ -14,5 +17,7 @@ public class com {
         Integer a=1;
         Integer b =2;
         System.out.println(a.equals(b));
+        Map<String,Boolean> map = new HashMap<>();
+        map.put("s",true);
     }
 }
