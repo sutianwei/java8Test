@@ -36,14 +36,6 @@ public class 顺时针打印矩阵 {
         return res;
     }
 
-    public static void main(String[] args) {
-        int as[][] = new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
-
-        int a[] = spiralOrder1(as);
-        for (int s:a){
-            System.out.println(s);
-        }
-    }
 
 
 
@@ -77,5 +69,16 @@ public class 顺时针打印矩阵 {
         }
         return order;
     }
+
+
+    public static void main(String[] args) {
+        int as[][] = new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+
+        int a[] = spiralOrder1(as);
+        for (int s:a){
+            System.out.println(s);
+        }
+    }
+
 
 }
