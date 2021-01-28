@@ -55,16 +55,16 @@ public class 二叉树的深度 {
 
 
     public int maxDepth1(TreeNode1 root) {
-        if (root == null) return 0;
-        List<TreeNode1> queue = new LinkedList<>() {{
+        if (root == null) {return 0;}
+        List<TreeNode1> queue = new LinkedList<TreeNode1>() {{
             add(root);
         }}, tmp;
         int res = 0;
         while (!queue.isEmpty()) {
             tmp = new LinkedList<>();
             for (TreeNode1 node : queue) {
-                if (node.left != null) tmp.add(node.left);
-                if (node.right != null) tmp.add(node.right);
+                if (node.left != null) {tmp.add(node.left);}
+                if (node.right != null) {tmp.add(node.right);}
             }
             queue = tmp;
             res++;
