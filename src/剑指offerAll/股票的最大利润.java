@@ -41,14 +41,17 @@ public class 股票的最大利润 {
     }
 
     public static void main(String[] args) {
-        System.out.println(7-Integer.MIN_VALUE);
+        int [] arr = new int[]{7,1,5,3,6,4};
+        System.out.println(maxProfit1(arr));
     }
 
-    public int maxProfit1(int[] prices) {
+    public static int maxProfit1(int[] prices) {
         if(prices.length == 0) return 0;
         int res = 0, min = prices[0];
         for(int i = 1; i < prices.length; i ++){
+            //min  确保min为最小值
             min = Math.min(min, prices[i-1]);
+            //后面的每个值减去最小值
             res = Math.max(res, prices[i] - min);
         }
         return res;
