@@ -16,8 +16,8 @@ public class 股票的最大利润 {
         int maxPrice = 0;
         for (int i = 0; i < prices.length - 1; i++) {
             for (int j = i + 1; j < prices.length; j++) {
-                int profit =prices[j]-prices[i];
-                if (profit > maxPrice){
+                int profit = prices[j] - prices[i];
+                if (profit > maxPrice) {
                     maxPrice = profit;
                 }
             }
@@ -25,5 +25,35 @@ public class 股票的最大利润 {
         return maxPrice;
 
     }
+
+
+    public int maxP(int prices[]) {
+        int minP = Integer.MIN_VALUE;
+        int max = 0;
+        for (int i=0;i<prices.length;i++){
+            if (prices[i] <minP){
+                minP=prices[i];
+            }else if (prices[i]-minP >max){
+                max=prices[i]-minP;
+            }
+        }
+        return max;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(7-Integer.MIN_VALUE);
+    }
+
+    public int maxProfit1(int[] prices) {
+        if(prices.length == 0) return 0;
+        int res = 0, min = prices[0];
+        for(int i = 1; i < prices.length; i ++){
+            min = Math.min(min, prices[i-1]);
+            res = Math.max(res, prices[i] - min);
+        }
+        return res;
+
+    }
+
 
 }
