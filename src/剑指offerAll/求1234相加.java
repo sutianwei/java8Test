@@ -10,6 +10,6 @@ public class 求1234相加 {
     }
 
     public static void main(String[] args) {
-        System.out.println(sum(3));
+        System.out.println(sum(26));
     }
 }
