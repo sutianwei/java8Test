@@ -27,7 +27,7 @@ public class 股票的最大利润 {
     }
 
 
-    public int maxP(int prices[]) {
+    public static int maxP(int prices[]) {
         int minP = Integer.MIN_VALUE;
         int max = 0;
         for (int i=0;i<prices.length;i++){
@@ -42,7 +42,7 @@ public class 股票的最大利润 {
 
     public static void main(String[] args) {
         int [] arr = new int[]{7,1,5,3,6,4};
-        System.out.println(maxProfit1(arr));
+        System.out.println(maxP(arr));
     }
 
     public static int maxProfit1(int[] prices) {
