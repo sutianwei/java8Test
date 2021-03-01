@@ -45,7 +45,7 @@ public class 买卖股票的最佳时机 {
 
     public static void main(String[] args) {
         int[] a = new int[]{7, 1, 5, 3, 6, 4};
-        System.out.println(maxProfit(a));
+        System.out.println(test2(a));
 
     }
 
@@ -61,7 +61,7 @@ public class 买卖股票的最佳时机 {
      * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
      */
 
-    public int test2(int[] prices) {
+    public static int test2(int[] prices) {
         int len = prices.length;
         if (len < 2) {
             return 0;
@@ -70,7 +70,7 @@ public class 买卖股票的最佳时机 {
         //0 CASH 1 STOCK
         int[][] dp = new int[len][2];
         dp[0][0] = 0;
-        dp[0][1] = -prices[0];
+        dp[0][1] = -1;
         for (int i = 1; i < len; i++) {
             dp[i][0] = Math.max(dp[i - 1][0], dp[i - 1][1] + prices[i]);
             dp[i][1] = Math.max(dp[i - 1][1], dp[i - 1][0] + prices[i]);
