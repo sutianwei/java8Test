@@ -20,391 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/FinalizeEscapeGC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/HeapOOM$OOMObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/HeapOOM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/ReferenceCountingGC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/新建对象的几种方法/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/新建对象的几种方法/StudentClone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/新建对象的几种方法/StudentInstance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/新建对象的几种方法/StudnetSerializable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/新建对象的几种方法/TestStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/类加载机制/DynamicProxyTest$DynamicProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/类加载机制/DynamicProxyTest$Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/类加载机制/DynamicProxyTest$IHello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/类加载机制/DynamicProxyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/类加载机制/Not.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/类加载机制/SubClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/JVM/类加载机制/SuperClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/Dish$Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/Dish.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/Dish2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/Executor/TaskExecutionWebServer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/Executor/TaskExecutionWebServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/Stack23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/THS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/TestHarness$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/TestHarness.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/TestTimerOrder$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/TestTimerOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/Trader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/Transaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/java8_2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/java8_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/lamdaExample$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/lamdaExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/testExecuor$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/testExecuor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/方法引用$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/com/su/com/方法引用.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/IO/TestBlockingNIO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/IO/TestBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/IO/k.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/AHashMapDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/ALOCK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/AThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Acallable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Amycache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Aproduce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Arr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/ArrayListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Asych.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/FindArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/FindGreatestSumOfSubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/HoldLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/IO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/IOexcep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/K.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Max.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/MyCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/MyResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/MyThread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/ProdConsumer_block.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/ShareData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/ShareResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/So.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/Solution123.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/aKMP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/aReenterLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/addtwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/selectsort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/thread$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/thread$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/thread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/冒泡.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/company/插入.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/AbaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/AtomicAndCASDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/CopyOnWriteArrayListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/CountDownLatchDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/CreatThreadByExtendsThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/CreatThreadByImplementsCallable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/CreatThreadByImplementsRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/Ctest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/CyclicBarrierDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/DeleteListItemDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/ExecutorsCreateCachedThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/ExecutorsCreateFixedThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/ExecutorsCreateScheduledThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/ExecutorsCreateSingleThreadExecutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/Rtest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/SemaphoreDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/demo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/BinaryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/F1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/List12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/Select.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/Shell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/chicken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/jvm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/lambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/s10to16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/s16to10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/su.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/thread$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/thread$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/thread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/thread1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/thread1$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/thread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/冒泡.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/反序.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/字符串.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/字符排序.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/快排字符串.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/插入.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/选择.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/递归.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/javathead/递推斐波那契.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/offer/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/offer/ListNodeUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/offer/MyClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/offer/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/offer/Udpdemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/offer/offer3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/offer/二维数组查找.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/offer/空格替换字母.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/offer/重复数字.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/BracketMatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/Other.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/Students.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/collection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/m.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/niu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/s.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/s514.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/set.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/s5_7/stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/search/二分查找.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/search/顺序查询.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/JavaTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/TheKNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/TwoQueneStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/TwoStakQuene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/deleteCopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/serarchcopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/smallestK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/二进制多少个1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/反转链表2$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/反转链表2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/字符串/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/字符串/StringToInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/字符串/longest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/字符串/theMaxsum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/字符串/括号匹配深度.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/剑指offer/链表/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/Callable123.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/ProducerConsumer$Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/ProducerConsumer$Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/ProducerConsumer$Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/ProducerConsumer$Storage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/ProducerConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/Race.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/Sysdemo2$Jvm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/Sysdemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/jointhread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/runnable1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/runnable11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/stat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/staticproxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/wugui.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/多线程/倒计时.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/排序/HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/排序/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/排序/MyCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/排序/MyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/排序/冒泡.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/排序/希尔排序.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/排序/快速.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/排序/插入.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/排序/桶排序.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/排序/选择.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_00_BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_01_InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_02_SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_03_HeapSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_04_QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_05_MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_06_BucketSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_07_RadixSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_08_NetherlandsFlag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_09_Comparator$AgeAscendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_09_Comparator$AgeDescendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_09_Comparator$IdAscendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_09_Comparator$IdDescendingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_09_Comparator$Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_09_Comparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_10_GetAllNotIncluded.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_11_MaxGap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/牛客/Code_12_SmallSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/编译原理/Singleton12$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/编译原理/Singleton12$Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/编译原理/Singleton12$Singleton2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/编译原理/Singleton12$Singleton3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/编译原理/Singleton12$Singleton4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/编译原理/Singleton12$Singleton5$SingletonHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/编译原理/Singleton12$Singleton5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/编译原理/Singleton12$Singleton6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/编译原理/Singleton12$Singleton7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/编译原理/Singleton12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/AutomicABA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/Cas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/Connotsafe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/Java阻塞队列实现生产者和消费者/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/Java阻塞队列实现生产者和消费者/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/Java阻塞队列实现生产者和消费者/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/MyData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/SingleDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/VolatileDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/xipai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/全排列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/单词拆分.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/字符串反转.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/数组交并叉集.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/最大连续子序列和.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/company/面试基础/链表中间节点.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/DeadLockDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/DeadLockDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/DeadLockDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/Interrupted$Sleep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/Interrupted$busy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/Interrupted.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/Join$Demino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/Join.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/Priority$Job.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/Priority.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/ShutDown$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/ShutDown$Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/ShutDown.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/SleepUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/Synchorized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/ThreadState$Blocked.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/ThreadState$TimeWaiting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/ThreadState$Waiting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/ThreadState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/WaitNotify$Notify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/WaitNotify$Wait.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/one/WaitNotify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/多线程编程核心技术/a1/Mythread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/多线程编程核心技术/a1/runMythread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/BlockingQueueTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/Cache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/CountdownLatchTest1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/CountdownLatchTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/CountdownLatchTest2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/CountdownLatchTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/CyclicBarrierDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/CyclicBarrierDemo$TaskThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/CyclicBarrierDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/DefaultThreadPool$Worker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/DefaultThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/Mutex$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/Mutex$Sync.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/Mutex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/SemaphoreTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/SemaphoreTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/ThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/死循环$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/死循环$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java并发编程的艺术/线程池/死循环.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/AppleOrange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/AppleOrange2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/Assignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/CollectionMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/Immutabe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/Letter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/PassObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/StringMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/Tank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/fuji.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/gala.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/mapetst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/usingStringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/数组.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/java编程思想/添加一组元素.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/sdffs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/两个栈实现队列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/两数之和.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/二叉树中序遍历.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/二叉树的深度.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/二叉树镜像.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/倒数第k个节点.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/删除中间节点.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/删除排序数组中的重复项.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/删除重复节点.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/剑指Offer57和为s的连续正数序列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/反转字符串.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/反转链表.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/合并两个有序链表.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/回文链表.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/快慢指针.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/整数反转.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/斐波那契数列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/旋转数组的最小数字.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/有效的括号$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/有效的括号.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/构建乘积数组.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/求和.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/环路检测.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offer/easyLevel/跳台阶.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/ListNode1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/TreeNode1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/n个骰子的点数.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/s0_n_1中缺失的数字.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/两个链表的第一个公共节点.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/二叉树的最近公共祖先.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/二叉树的深度$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/二叉树的深度.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/二维数组的查找.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/二进制中1的个数.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/从上到下打印二叉树.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/从尾到头打印链表$从尾到头打印链表1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/从尾到头打印链表.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/包含min函数的栈.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/合并两个排序的链表.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/和为S的两个数字.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/和为s的连续正数序列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/圆圈中最后剩下的数字.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/在排序数组中查找数字I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/对称的二叉树.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/左旋转字符串.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/扑克牌中的顺子.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/打印从1到最大的n位数.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/数组中出现次数超过一半的数字.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/斐波那契数列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/旋转数组的最小数字.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/替换空格.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/最小的k个数$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/最小的k个数.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/最长公共前缀.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/构建乘积数组.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/求1234相加.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/用两个栈实现队列.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/第一个只出现一次的字符.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/翻转单词顺序.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/股票的最大利润.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/连续子数组的最大和.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/重复数字.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/青蛙跳台阶.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java8Test/剑指offerAll/顺时针打印矩阵.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JVM/ReferenceCountingGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JVM/ReferenceCountingGC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offerAll/股票的最大利润.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offerAll/股票的最大利润.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/两数相加.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/两数相加.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -442,9 +60,35 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.合法IP">
     <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.买卖股票的最佳时机" />
+      <module name="stud_ing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合法IP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.合法IP" />
+      <module name="stud_ing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两数相加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.两数相加" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
@@ -469,21 +113,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.合法IP" />
         <item itemvalue="Application.买卖股票的最佳时机" />
       </list>
     </recent_temporary>
@@ -497,6 +140,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614518889371</updated>
       <workItem from="1614518891936" duration="2535000" />
+      <workItem from="1614611055982" duration="2894000" />
+      <workItem from="1614695194806" duration="1972000" />
     </task>
     <servers />
   </component>
@@ -513,23 +158,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1867" height="266" key="GridCell.Tab.0.bottom" timestamp="1614519887716">
+    <state width="1867" height="266" key="GridCell.Tab.0.bottom" timestamp="1614613062139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614519887716" />
-    <state width="1867" height="266" key="GridCell.Tab.0.center" timestamp="1614519887716">
+    <state width="1867" height="266" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614613062139" />
+    <state width="1867" height="266" key="GridCell.Tab.0.center" timestamp="1614613062138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614519887716" />
-    <state width="1867" height="266" key="GridCell.Tab.0.left" timestamp="1614519887716">
+    <state width="1867" height="266" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614613062138" />
+    <state width="1867" height="266" key="GridCell.Tab.0.left" timestamp="1614613062138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614519887716" />
-    <state width="1867" height="266" key="GridCell.Tab.0.right" timestamp="1614519887716">
+    <state width="1867" height="266" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614613062138" />
+    <state width="1867" height="266" key="GridCell.Tab.0.right" timestamp="1614613062139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614519887716" />
+    <state width="1867" height="266" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614613062139" />
+    <state x="586" y="186" width="748" height="668" key="find.popup" timestamp="1614613268859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="186" width="748" height="668" key="find.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614613268859" />
   </component>
 </project>
