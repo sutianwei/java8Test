@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/两数相加.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/company/company/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/company/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/两数相加.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/两数相加.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +60,22 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.两数相加">
+  <component name="RunManager" selected="Application.合法IP">
     <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.买卖股票的最佳时机" />
+      <module name="stud_ing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合法IP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.合法IP" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
@@ -100,22 +113,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.两数相加" />
+        <item itemvalue="Application.合法IP" />
         <item itemvalue="Application.买卖股票的最佳时机" />
       </list>
     </recent_temporary>
@@ -129,7 +140,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614518889371</updated>
       <workItem from="1614518891936" duration="2535000" />
-      <workItem from="1614611055982" duration="1806000" />
+      <workItem from="1614611055982" duration="2894000" />
+      <workItem from="1614695194806" duration="1972000" />
     </task>
     <servers />
   </component>
@@ -149,21 +161,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1867" height="266" key="GridCell.Tab.0.bottom" timestamp="1614612012004">
+    <state width="1867" height="266" key="GridCell.Tab.0.bottom" timestamp="1614613062139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614612012004" />
-    <state width="1867" height="266" key="GridCell.Tab.0.center" timestamp="1614612012004">
+    <state width="1867" height="266" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614613062139" />
+    <state width="1867" height="266" key="GridCell.Tab.0.center" timestamp="1614613062138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614612012004" />
-    <state width="1867" height="266" key="GridCell.Tab.0.left" timestamp="1614612012004">
+    <state width="1867" height="266" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614613062138" />
+    <state width="1867" height="266" key="GridCell.Tab.0.left" timestamp="1614613062138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614612012004" />
-    <state width="1867" height="266" key="GridCell.Tab.0.right" timestamp="1614612012004">
+    <state width="1867" height="266" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614613062138" />
+    <state width="1867" height="266" key="GridCell.Tab.0.right" timestamp="1614613062139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="266" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614612012004" />
+    <state width="1867" height="266" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614613062139" />
+    <state x="586" y="186" width="748" height="668" key="find.popup" timestamp="1614613268859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="186" width="748" height="668" key="find.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614613268859" />
   </component>
 </project>
