@@ -124,6 +124,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.合法IP" />
@@ -142,6 +155,7 @@
       <workItem from="1614518891936" duration="2535000" />
       <workItem from="1614611055982" duration="2894000" />
       <workItem from="1614695194806" duration="5336000" />
+      <workItem from="1614784960669" duration="1943000" />
     </task>
     <servers />
   </component>
