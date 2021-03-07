@@ -55,6 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-seckill" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -124,19 +125,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.合法IP" />
@@ -155,7 +143,8 @@
       <workItem from="1614518891936" duration="2535000" />
       <workItem from="1614611055982" duration="2894000" />
       <workItem from="1614695194806" duration="5336000" />
-      <workItem from="1614784960669" duration="1943000" />
+      <workItem from="1614784960669" duration="3212000" />
+      <workItem from="1615108084399" duration="779000" />
     </task>
     <servers />
   </component>
@@ -175,6 +164,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="687" y="214" key="FileChooserDialogImpl" timestamp="1615108237445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="214" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615108237445" />
     <state width="1867" height="263" key="GridCell.Tab.0.bottom" timestamp="1614699390263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -211,6 +204,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="428" y="121" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614700459461" />
+    <state x="452" y="186" key="Vcs.Push.Dialog.v2" timestamp="1615108189799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="186" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615108189799" />
     <state x="586" y="186" width="748" height="668" key="find.popup" timestamp="1614613268859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -7,7 +7,7 @@ import java.util.LinkedList;
 public class 合并有序链表 {
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        // write code here
+
         if (l1 == null) {
             return l2;
         }
