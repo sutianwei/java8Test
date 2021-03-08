@@ -55,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-seckill" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-mutithread" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -125,6 +125,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.合法IP" />
@@ -145,6 +156,7 @@
       <workItem from="1614695194806" duration="5336000" />
       <workItem from="1614784960669" duration="3212000" />
       <workItem from="1615108084399" duration="779000" />
+      <workItem from="1615213745174" duration="2778000" />
     </task>
     <servers />
   </component>
@@ -164,10 +176,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="687" y="214" key="FileChooserDialogImpl" timestamp="1615108237445">
+    <state x="687" y="214" key="FileChooserDialogImpl" timestamp="1615214658582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="687" y="214" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615108237445" />
+    <state x="687" y="214" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615214658582" />
     <state width="1867" height="263" key="GridCell.Tab.0.bottom" timestamp="1614699390263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
