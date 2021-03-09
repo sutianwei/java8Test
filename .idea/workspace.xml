@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/连续子数组的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/连续子数组的最大和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/剑指offer/easyLevel/环路检测.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/easyLevel/环路检测.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +175,7 @@
       <workItem from="1614784960669" duration="3212000" />
       <workItem from="1615108084399" duration="779000" />
       <workItem from="1615213745174" duration="3426000" />
-      <workItem from="1615300293385" duration="1075000" />
+      <workItem from="1615300293385" duration="3049000" />
     </task>
     <servers />
   </component>
@@ -193,26 +195,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1615302509281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615302509281" />
     <state x="687" y="214" key="FileChooserDialogImpl" timestamp="1615214658582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="214" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615214658582" />
-    <state width="1867" height="263" key="GridCell.Tab.0.bottom" timestamp="1614699390263">
+    <state width="1867" height="263" key="GridCell.Tab.0.bottom" timestamp="1615301612751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="263" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614699390263" />
-    <state width="1867" height="263" key="GridCell.Tab.0.center" timestamp="1614699390263">
+    <state width="1867" height="263" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615301612751" />
+    <state width="1867" height="263" key="GridCell.Tab.0.center" timestamp="1615301612751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="263" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614699390263" />
-    <state width="1867" height="263" key="GridCell.Tab.0.left" timestamp="1614699390263">
+    <state width="1867" height="263" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615301612751" />
+    <state width="1867" height="263" key="GridCell.Tab.0.left" timestamp="1615301612751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="263" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614699390263" />
-    <state width="1867" height="263" key="GridCell.Tab.0.right" timestamp="1614699390263">
+    <state width="1867" height="263" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615301612751" />
+    <state width="1867" height="263" key="GridCell.Tab.0.right" timestamp="1615301612751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="263" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1614699390263" />
+    <state width="1867" height="263" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615301612751" />
     <state width="1867" height="327" key="GridCell.Tab.1.bottom" timestamp="1614697412189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
