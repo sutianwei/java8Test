@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/连续子数组的最大和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/连续子数组的最大和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer/easyLevel/环路检测.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer/easyLevel/环路检测.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.连续子数组的最大和">
+  <component name="RunManager" selected="Application.买卖股票的最佳时机">
     <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.买卖股票的最佳时机" />
       <module name="stud_ing" />
@@ -75,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="连续子数组的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.连续子数组的最大和" />
+    <configuration name="合法IP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.合法IP" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="合法IP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.合法IP" />
+    <configuration name="连续子数组的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.连续子数组的最大和" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
@@ -140,22 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.连续子数组的最大和" />
         <item itemvalue="Application.合法IP" />
         <item itemvalue="Application.买卖股票的最佳时机" />
       </list>
@@ -176,6 +160,7 @@
       <workItem from="1615108084399" duration="779000" />
       <workItem from="1615213745174" duration="3426000" />
       <workItem from="1615300293385" duration="3049000" />
+      <workItem from="1615993471994" duration="484000" />
     </task>
     <servers />
   </component>
