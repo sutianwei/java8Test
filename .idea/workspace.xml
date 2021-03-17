@@ -138,6 +138,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.合法IP" />
@@ -160,7 +171,7 @@
       <workItem from="1615108084399" duration="779000" />
       <workItem from="1615213745174" duration="3426000" />
       <workItem from="1615300293385" duration="3049000" />
-      <workItem from="1615993471994" duration="484000" />
+      <workItem from="1615993471994" duration="1259000" />
     </task>
     <servers />
   </component>
