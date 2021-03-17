@@ -1,10 +1,12 @@
 package company.company;
 
 public class ListNode {
-    int val;
-    ListNode next = null;
 
-    ListNode(int val) {
-        this.val = val;
-    }
+    public int val;
+    public ListNode next;
+
+
+     public ListNode(int x) { val = x; }
+
+
 }

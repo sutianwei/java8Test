@@ -2,6 +2,7 @@ package 剑指offerAll;
 
 import java.util.Deque;
 import java.util.LinkedList;
+import java.util.Stack;
 
 public class 用两个栈实现队列 {
 
@@ -30,5 +31,29 @@ public class 用两个栈实现队列 {
             int delete = stack2.poll();
             return delete;
         }
+    }
+
+
+
+
+
+
+    Stack<Integer> stack11 = new Stack<Integer>();
+    Stack<Integer> stack22 = new Stack<Integer>();
+
+    public void push(int node) {
+        stack1.push(node);
+    }
+
+    public int pop() {
+        if(stack11.empty() && stack22.empty()){
+            throw new RuntimeException("error");
+        }
+        if(stack22.empty()){
+            while(!stack11.empty()){
+                stack2.push(stack1.pop());
+            }
+        }
+        return stack2.pop();
     }
 }
