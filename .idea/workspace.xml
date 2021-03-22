@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stud_ing/剑指offer/easyLevel/环路检测.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stud_ing/剑指offer/easyLevel/环路检测.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -55,11 +64,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-mutithread" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCloudLearning" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.买卖股票的最佳时机">
+  <component name="RunManager" selected="Application.getStudent">
     <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.买卖股票的最佳时机" />
       <module name="stud_ing" />
@@ -138,19 +147,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="com" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com" />
+      <module name="stud_ing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="getStudent" />
+      <module name="stud_ing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sdffs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sdffs" />
+      <module name="stud_ing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.getStudent" />
+        <item itemvalue="Application.com" />
+        <item itemvalue="Application.sdffs" />
         <item itemvalue="Application.合法IP" />
         <item itemvalue="Application.买卖股票的最佳时机" />
       </list>
@@ -172,6 +207,9 @@
       <workItem from="1615213745174" duration="3426000" />
       <workItem from="1615300293385" duration="3049000" />
       <workItem from="1615993471994" duration="1259000" />
+      <workItem from="1616079055187" duration="1617000" />
+      <workItem from="1616290158203" duration="2088000" />
+      <workItem from="1616426211958" duration="728000" />
     </task>
     <servers />
   </component>
@@ -195,26 +233,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615302509281" />
-    <state x="687" y="214" key="FileChooserDialogImpl" timestamp="1615214658582">
+    <state x="687" y="214" key="FileChooserDialogImpl" timestamp="1616080336954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="687" y="214" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615214658582" />
-    <state width="1867" height="263" key="GridCell.Tab.0.bottom" timestamp="1615301612751">
+    <state x="687" y="214" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616080336954" />
+    <state width="933" height="263" key="GridCell.Tab.0.bottom" timestamp="1616426309724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="263" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615301612751" />
-    <state width="1867" height="263" key="GridCell.Tab.0.center" timestamp="1615301612751">
+    <state width="933" height="263" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616426309724" />
+    <state width="933" height="263" key="GridCell.Tab.0.center" timestamp="1616426309724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="263" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615301612751" />
-    <state width="1867" height="263" key="GridCell.Tab.0.left" timestamp="1615301612751">
+    <state width="933" height="263" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616426309724" />
+    <state width="933" height="263" key="GridCell.Tab.0.left" timestamp="1616426309723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="263" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615301612751" />
-    <state width="1867" height="263" key="GridCell.Tab.0.right" timestamp="1615301612751">
+    <state width="933" height="263" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616426309723" />
+    <state width="933" height="263" key="GridCell.Tab.0.right" timestamp="1616426309724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="263" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615301612751" />
+    <state width="933" height="263" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616426309724" />
     <state width="1867" height="327" key="GridCell.Tab.1.bottom" timestamp="1614697412189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -239,6 +277,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="186" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615108189799" />
+    <state x="543" y="188" key="VcsDiffUtil.ChangesDialog" timestamp="1615996348712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="188" key="VcsDiffUtil.ChangesDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615996348712" />
     <state x="586" y="186" width="748" height="668" key="find.popup" timestamp="1614613268859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
