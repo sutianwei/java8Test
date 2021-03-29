@@ -14,10 +14,7 @@ public class com {
     }
 
     public static void main(String[] args) {
-        Integer a=1;
-        Integer b =2;
-        System.out.println(a.equals(b));
-        Map<String,Boolean> map = new HashMap<>();
-        map.put("s",true);
+        System.out.println(2<<3);
+        System.out.println(2>>3);
     }
 }
