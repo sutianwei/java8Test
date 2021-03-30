@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="" />
+    <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,35 +64,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Race">
-    <configuration name="连续子数组的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.连续子数组的最大和" />
-      <module name="stud_ing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.lamda">
     <configuration name="Race" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="狂神说.线程基础.Race" />
-      <module name="stud_ing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="狂神说.线程基础.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StartThread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="狂神说.线程基础.StartThread1" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
@@ -128,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="完美数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.完美数" />
-      <module name="stud_ing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="两数相加" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.两数相加" />
       <module name="stud_ing" />
@@ -167,20 +130,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="getStudent" />
+    <configuration name="lamda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="狂神说.线程基础.lamda" />
       <module name="stud_ing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="狂神说.线程基础.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staticPROXY" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="狂神说.线程基础.staticPROXY" />
+      <module name="stud_ing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="狂神说.线程基础.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lamda" />
+        <item itemvalue="Application.staticPROXY" />
         <item itemvalue="Application.Race" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.TestThread3" />
-        <item itemvalue="Application.StartThread1" />
-        <item itemvalue="Application.getStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +200,8 @@
       <workItem from="1616426211958" duration="728000" />
       <workItem from="1616513034998" duration="562000" />
       <workItem from="1616942362666" duration="2936000" />
+      <workItem from="1617029292080" duration="2115000" />
+      <workItem from="1617115288932" duration="1363000" />
     </task>
     <servers />
   </component>
@@ -224,34 +221,35 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1615302509281">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2494" y="102" key="#com.intellij.ide.util.MemberChooser" timestamp="1617116305581">
+      <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615302509281" />
+    <state x="2494" y="102" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1617116305581" />
     <state x="687" y="214" key="FileChooserDialogImpl" timestamp="1616080336954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="214" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616080336954" />
-    <state width="1483" height="210" key="GridCell.Tab.0.bottom" timestamp="1616944952440">
+    <state width="1483" height="116" key="GridCell.Tab.0.bottom" timestamp="1617116609945">
       <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state width="933" height="263" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616426309724" />
-    <state width="1483" height="210" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1616944952440" />
-    <state width="1483" height="210" key="GridCell.Tab.0.center" timestamp="1616944952440">
+    <state width="1483" height="116" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1617116609945" />
+    <state width="1483" height="116" key="GridCell.Tab.0.center" timestamp="1617116609945">
       <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state width="933" height="263" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616426309724" />
-    <state width="1483" height="210" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1616944952440" />
-    <state width="1483" height="210" key="GridCell.Tab.0.left" timestamp="1616944952440">
+    <state width="1483" height="116" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1617116609945" />
+    <state width="1483" height="116" key="GridCell.Tab.0.left" timestamp="1617116609945">
       <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state width="933" height="263" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616426309723" />
-    <state width="1483" height="210" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1616944952440" />
-    <state width="1483" height="210" key="GridCell.Tab.0.right" timestamp="1616944952440">
+    <state width="1483" height="116" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1617116609945" />
+    <state width="1483" height="116" key="GridCell.Tab.0.right" timestamp="1617116609945">
       <screen x="1920" y="0" width="1536" height="832" />
     </state>
     <state width="933" height="263" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616426309724" />
-    <state width="1483" height="210" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1616944952440" />
+    <state width="1483" height="116" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@1920.0.1536.832" timestamp="1617116609945" />
     <state width="1867" height="327" key="GridCell.Tab.1.bottom" timestamp="1614697412189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
