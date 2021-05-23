@@ -18,7 +18,7 @@ public class com {
         list.add(c);
         list.add(d);
         list.add(e);
-
+        System.out.println(list);
 
     }
 }

@@ -71,22 +71,9 @@
       <recent name="com.su.com.Executor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedListTets">
+  <component name="RunManager" selected="Application.com">
     <configuration name="LinkedListTets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tohw.LinkedListTets" />
-      <module name="stud_ing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tohw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewEntity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tohw.NewEntity" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
@@ -137,13 +124,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com" />
+      <module name="stud_ing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com" />
         <item itemvalue="Application.LinkedListTets" />
         <item itemvalue="Application.Student (1)" />
         <item itemvalue="Application.StudentInstance" />
         <item itemvalue="Application.StudentClone" />
-        <item itemvalue="Application.NewEntity" />
       </list>
     </recent_temporary>
   </component>
