@@ -1,5 +1,10 @@
 package myown;
 
+import java.math.BigDecimal;
+import java.util.*;
+
+import static myown.test.get;
+
 class Node {
     int val;
     Node next;
@@ -13,15 +18,49 @@ class Node {
 public class 合并兩個排序鏈表 {
 
     public static void main(String[] args) {
-        Node l1 = new Node(1); Node l2 = new Node(3);
-        Node secNode1= new Node(6);Node secNode2= new Node(5);
-        Node thiNode1= new Node(9);Node thiNode2= new Node(11);
+        Node l1 = new Node(1);
+        Node l2 = new Node(3);
+        Node secNode1 = new Node(6);
+        Node secNode2 = new Node(5);
+        Node thiNode1 = new Node(9);
+        Node thiNode2 = new Node(11);
         //把节点连起来
-        l1.next=secNode1;secNode1.next=thiNode1;
-        l2.next=secNode2;secNode2.next=thiNode2;
-        System.out.println(merge2(l1,l2));
-    }
+        l1.next = secNode1;
+        secNode1.next = thiNode1;
+        l2.next = secNode2;
+        secNode2.next = thiNode2;
+        System.out.println(merge2(l1, l2));
 
+
+        List<Integer> list = new ArrayList<>();
+        String str = "010207151618202124252935405254626566707807101314233237394346515354586061727374800306082330354041444647505254586667687178" +
+                "252632374244454950515762656768697073757702040506080913192223293540414850525457770108111629313538394152575961626369717374";//字符串
+        int m = str.length() / 2;
+        if (m * 2 < str.length()) {
+            m++;
+        }
+        String[] strs = new String[m];
+        int j = 0;
+        for (int i = 0; i < str.length(); i++) {
+            if (i % 2 == 0) {//每隔两个
+                strs[j] = "" + str.charAt(i);
+            } else {
+                strs[j] = strs[j] + str.charAt(i);//将字符加上两个空格
+                j++;
+            }
+        }
+        for (int i = 0; i < strs.length; i++) {
+            list.add(Integer.valueOf(strs[i]));
+        }
+
+
+        HashMap map = get(list);
+        for (Object key : map.keySet()){
+            System.out.println(key+"--"+map.get(key));
+        }
+
+
+    }
 
 
 
@@ -72,8 +111,6 @@ public class 合并兩個排序鏈表 {
 
 
     }
-
-
 
 
 }

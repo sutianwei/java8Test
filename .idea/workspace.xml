@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myown/兩個棧實現隊列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myown/合并兩個排序鏈表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stud_ing/myown/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stud_ing/myown/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stud_ing/myown/合并兩個排序鏈表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stud_ing/myown/合并兩個排序鏈表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myown/合并兩個排序鏈表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myown/合并兩個排序鏈表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <recent name="com.su.com.Executor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.合并兩個排序鏈表">
+  <component name="RunManager" selected="Application.test">
     <configuration name="合并兩個排序鏈表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myown.合并兩個排序鏈表" />
       <module name="stud_ing" />
@@ -102,32 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tohw.Student" />
-      <module name="stud_ing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tohw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JVM.新建对象的几种方法.StudentInstance" />
-      <module name="stud_ing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JVM.新建对象的几种方法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com" />
       <module name="stud_ing" />
@@ -135,26 +108,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myown.random" />
+      <module name="stud_ing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myown.test" />
+      <module name="stud_ing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.random" />
         <item itemvalue="Application.合并兩個排序鏈表" />
         <item itemvalue="Application.com" />
         <item itemvalue="Application.LinkedListTets" />
-        <item itemvalue="Application.Student (1)" />
-        <item itemvalue="Application.StudentInstance" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +192,12 @@
       <workItem from="1620918814029" duration="3952000" />
       <workItem from="1621264852057" duration="2675000" />
       <workItem from="1621760826154" duration="309000" />
-      <workItem from="1622559801441" duration="4048000" />
+      <workItem from="1622559801441" duration="4788000" />
+      <workItem from="1622629669093" duration="1356000" />
+      <workItem from="1622643797771" duration="1746000" />
+      <workItem from="1622731148651" duration="5733000" />
+      <workItem from="1622983931951" duration="337000" />
+      <workItem from="1622984542875" duration="1647000" />
     </task>
     <servers />
   </component>
@@ -244,12 +246,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/myown/合并兩個排序鏈表.java</url>
-          <line>28</line>
+          <line>66</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/myown/合并兩個排序鏈表.java</url>
-          <line>51</line>
+          <line>89</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
