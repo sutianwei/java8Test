@@ -21,9 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stud_ing/myown/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stud_ing/myown/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stud_ing/myown/合并兩個排序鏈表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stud_ing/myown/合并兩個排序鏈表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myown/合并兩個排序鏈表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myown/合并兩個排序鏈表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stud_ing/myown/random.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stud_ing/myown/random.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stud_ing/myown/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stud_ing/myown/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myown/random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myown/random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myown/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myown/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +66,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cloud_student" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
@@ -74,9 +78,9 @@
       <recent name="com.su.com.Executor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="合并兩個排序鏈表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myown.合并兩個排序鏈表" />
+  <component name="RunManager" selected="Application.Immutabe">
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myown.DeadLockDemo" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
@@ -88,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListTets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tohw.LinkedListTets" />
+    <configuration name="Immutabe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java编程思想.Immutabe" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tohw.*" />
+          <option name="PATTERN" value="java编程思想.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,9 +105,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com" />
+    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myown.Singleton" />
       <module name="stud_ing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myown.VolatileTest" />
+      <module name="stud_ing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,37 +144,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myown.test" />
-      <module name="stud_ing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myown.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Immutabe" />
         <item itemvalue="Application.random" />
-        <item itemvalue="Application.合并兩個排序鏈表" />
-        <item itemvalue="Application.com" />
-        <item itemvalue="Application.LinkedListTets" />
+        <item itemvalue="Application.Singleton" />
+        <item itemvalue="Application.VolatileTest" />
+        <item itemvalue="Application.DeadLockDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +209,23 @@
       <workItem from="1622643797771" duration="1746000" />
       <workItem from="1622731148651" duration="5733000" />
       <workItem from="1622983931951" duration="337000" />
-      <workItem from="1622984542875" duration="1647000" />
+      <workItem from="1622984542875" duration="2045000" />
+      <workItem from="1623078093193" duration="2006000" />
+      <workItem from="1623163991411" duration="2535000" />
+      <workItem from="1623247502140" duration="3049000" />
+      <workItem from="1623494339738" duration="556000" />
+      <workItem from="1623587556348" duration="1850000" />
+      <workItem from="1623767794102" duration="321000" />
+      <workItem from="1623851461035" duration="1577000" />
+      <workItem from="1623902537271" duration="593000" />
+      <workItem from="1623903573342" duration="52000" />
+      <workItem from="1624249092963" duration="1192000" />
+      <workItem from="1624287865898" duration="433000" />
+      <workItem from="1624288337039" duration="2339000" />
+      <workItem from="1624700276347" duration="2183000" />
+      <workItem from="1625065798801" duration="1231000" />
+      <workItem from="1625145774551" duration="593000" />
+      <workItem from="1625410565126" duration="2602000" />
     </task>
     <servers />
   </component>
@@ -253,6 +281,11 @@
           <url>file://$PROJECT_DIR$/src/myown/合并兩個排序鏈表.java</url>
           <line>89</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myown/test.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

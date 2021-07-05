@@ -1,16 +1,25 @@
 package myown;
 
 import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+import java并发编程的艺术.线程池.SemaphoreTest;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
 public class test {
 
     public static void main(String[] args) {
+        Set<Integer> set = new HashSet<>();
+        set.add(1);
+
+
+
+
+
+
+
+
 
         BigDecimal a1 = new BigDecimal(11);
         BigDecimal a2 = new BigDecimal("12.22");

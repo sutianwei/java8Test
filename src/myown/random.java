@@ -9,8 +9,8 @@ public class random {
         Random r = new Random();
         Set<Integer> list = new HashSet<>();
         for (int i = 0; i < 100; i++) {
-            list.add(r.nextInt(80)+1);
-            if (list.size() == 10){
+            list.add(r.nextInt(33)+1);
+            if (list.size() == 6){
                 break;
             }
         }
