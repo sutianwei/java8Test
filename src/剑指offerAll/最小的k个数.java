@@ -22,10 +22,10 @@ public class 最小的k个数 {
 //                return num2 - num1;
 //            }
 //        });
-        PriorityQueue<Integer>  queue = new PriorityQueue<>(new Comparator<Integer>() {
+        PriorityQueue<Integer> queue = new PriorityQueue<>(new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
-               return   o2-o1;
+                return o2 - o1;
             }
         });
         for (int i = 0; i < k; ++i) {
