@@ -6,7 +6,7 @@ class LTicket {
 
     private int number = 30;
 
-    private final ReentrantLock lock = new ReentrantLock();
+    private final ReentrantLock lock = new ReentrantLock(true);
 
     public void sale() {
         try {
