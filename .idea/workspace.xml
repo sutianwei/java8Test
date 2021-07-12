@@ -22,29 +22,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="">
+    <list default="true" id="105ed3e2-12fb-4f7b-9868-ba88b086316d" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/对称二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/动态代理/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/动态代理/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/动态代理/TeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/静态代理/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/静态代理/ITeacherDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/静态代理/TeacherDaoProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/callable/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/callable/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/completable/CompletableFutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/completable/CompletableFutureDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/forkjoin/ForkJoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/forkjoin/ForkJoinDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/juc/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/juc/CountDownLatchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/juc/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/juc/CyclicBarrierDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/juc/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/juc/SemaphoreDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/lock/LSaleTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/lock/LSaleTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/lock/ThreadDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/lock/ThreadDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/lock/ThreadDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/lock/ThreadDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/lock/ThreadDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/lock/ThreadDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/pool/ThreadPoolDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/pool/ThreadPoolDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/pool/ThreadPoolDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/pool/ThreadPoolDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/queue/BlockingQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/queue/BlockingQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/readwrite/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/readwrite/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/readwrite/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/readwrite/ReadWriteLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/sync/DeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/sync/DeadLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/sync/Lock_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/sync/Lock_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/sync/SaleTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/sync/SaleTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/sync/SyncLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/sync/SyncLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/尚硅谷JUC/sync/ThreadDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/JUC/sync/ThreadDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/尚硅谷/su/CallableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/尚硅谷/su/CallableDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +42,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -66,6 +54,20 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/尚硅谷/JUC/sync/Lock_8.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/尚硅谷/su/ThreadDemo4.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../java/jdk/src.zip!/java/util/Collections.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../java/jdk/src.zip!/java/util/List.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -91,7 +93,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -102,13 +104,13 @@
       <recent name="com.su.com.Executor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ABADemo">
-    <configuration name="ABADemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.jvm_thread.thread.ABADemo" />
+  <component name="RunManager" selected="应用程序.Client (1)">
+    <configuration name="CallableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.su.CallableDemo" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="尚硅谷.jvm_thread.thread.*" />
+          <option name="PATTERN" value="尚硅谷.su.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Immutabe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java编程思想.Immutabe" />
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.动态代理.Client" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java编程思想.*" />
+          <option name="PATTERN" value="设计模式.动态代理.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myown.Singleton" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.静态代理.Client" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myown.*" />
+          <option name="PATTERN" value="设计模式.静态代理.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPoolDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.JUC.pool.ThreadPoolDemo1" />
+    <configuration name="LSaleTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.su.LSaleTicket" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="尚硅谷.JUC.pool.*" />
+          <option name="PATTERN" value="尚硅谷.su.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myown.random" />
+    <configuration name="ThreadDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.su.ThreadDemo4" />
       <module name="stud_ing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myown.*" />
+          <option name="PATTERN" value="尚硅谷.su.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,24 +170,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ABADemo" />
-        <item itemvalue="Application.ThreadPoolDemo1" />
-        <item itemvalue="Application.Immutabe" />
-        <item itemvalue="Application.random" />
-        <item itemvalue="Application.Singleton" />
+        <item itemvalue="应用程序.Client (1)" />
+        <item itemvalue="应用程序.Client" />
+        <item itemvalue="应用程序.CallableDemo" />
+        <item itemvalue="应用程序.LSaleTicket" />
+        <item itemvalue="应用程序.ThreadDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +254,12 @@
       <workItem from="1625410565126" duration="2602000" />
       <workItem from="1625581835184" duration="828000" />
       <workItem from="1625668385684" duration="1480000" />
-      <workItem from="1625747266798" duration="1950000" />
+      <workItem from="1625747266798" duration="3801000" />
+      <workItem from="1625923427133" duration="597000" />
+      <workItem from="1625930108633" duration="9818000" />
+      <workItem from="1625988090802" duration="6994000" />
+      <workItem from="1626019632693" duration="2235000" />
+      <workItem from="1626098957758" duration="4002000" />
     </task>
     <servers />
   </component>
@@ -311,6 +320,11 @@
           <url>file://$PROJECT_DIR$/src/myown/test.java</url>
           <line>13</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/设计模式/动态代理/Client.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
